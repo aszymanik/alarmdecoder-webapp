@@ -57,3 +57,4 @@ pyftdi==0.5.2
 pyasn1
 email_validator
 opencv-python==4.2.0.32
+netifaces>=0.10.4
